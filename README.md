@@ -13,6 +13,7 @@ Adobe Illustrator CS6 以上推奨です。
 ### .aitファイルを利用する場合
 + Illustratorの「ファイル」メニューから「テンプレートから新規…」を選択
 + LineStamp.aitを指定して新規ファイルを作成
+
 以上でテンプレートを元にした新規のファイルが作成されます。
 
 ※ Illlustratorのテンプレートについて[詳しくはこちら](http://helpx.adobe.com/jp/illustrator/kb/4287.html#main_B______________________)
