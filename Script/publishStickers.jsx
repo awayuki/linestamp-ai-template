@@ -1,3 +1,14 @@
+/*
+LINEスタンプ 一括書き出しスクリプト
+Last modified: Thu Jul 24 22:25:45 2014
+
+awayuki 製 LINEスタンプ制作用 Illustratorテンプレートとあわせて使うと、
+スタンプ画像／メイン画像／トークルームタブ画像を
+一括登録可能なファイル名で書き出せます。
+
+https://github.com/awayuki/linestamp-ai-template
+*/
+
 function exportSticker( dest, abd ) {
 	var type    =     ExportType.PNG24,
 		options = new ExportOptionsPNG24(),
