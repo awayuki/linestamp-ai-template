@@ -5,7 +5,7 @@ LINEスタンプをAdobe Illustratorで制作するためのテンプレート�
 ご自由にどうぞ。
 
 ## 対応バージョンについて
-Adobe Illustrator CS6 以上推奨です。
+Adobe Illustrator CC 推奨です。
 CS5対応版もあります。
 
 ## ファイルについて
